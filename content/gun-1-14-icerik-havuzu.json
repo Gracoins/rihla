@@ -1,0 +1,133 @@
+{
+  "_note": "Seed content for MVP days 1-14. Sources are limited to widely-authenticated, non-sectarian Qur'an verses and hadith with clear citations. RECOMMENDATION FROM THE TEARDOWN MEMO STILL APPLIES: have a knowledgeable reviewer (imam/scholar) check this pool before shipping — this is a first draft, not a final source of truth.",
+  "days": [
+    {
+      "day": 1,
+      "theme": "Niyyah — Intention",
+      "ayah": { "ref": "Qur'an 98:5", "text": "They were not commanded except to worship Allah, sincere to Him in religion." },
+      "dua": { "arabic_translit": "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatik", "translation": "O Allah, help me to remember You, thank You, and worship You in the best manner.", "source": "Sunan Abi Dawud" },
+      "dhikr": { "phrase": "La ilaha illallah", "count": 10 },
+      "reflection": "What's one intention you want to renew today?",
+      "good_deed": "Give a genuine thank-you to someone who helped you recently."
+    },
+    {
+      "day": 2,
+      "theme": "Tawakkul — Trust",
+      "ayah": { "ref": "Qur'an 65:3", "text": "Whoever relies upon Allah — then He is sufficient for him." },
+      "dua": { "arabic_translit": "Hasbunallahu wa ni'mal wakeel", "translation": "Allah is sufficient for us, and He is the best Disposer of affairs.", "source": "Qur'an 3:173" },
+      "dhikr": { "phrase": "Hasbunallahu wa ni'mal wakeel", "count": 7 },
+      "reflection": "What's one worry you can hand over today instead of carrying alone?",
+      "good_deed": "Reach out to someone who's going through a hard time."
+    },
+    {
+      "day": 3,
+      "theme": "Shukr — Gratitude",
+      "ayah": { "ref": "Qur'an 14:7", "text": "If you are grateful, I will surely increase you [in favor]." },
+      "dua": { "arabic_translit": "Alhamdulillahi rabbil 'alameen", "translation": "All praise is for Allah, Lord of all the worlds.", "source": "Qur'an 1:2" },
+      "dhikr": { "phrase": "Alhamdulillah", "count": 33 },
+      "reflection": "Name three specific things you're grateful for today, even small ones.",
+      "good_deed": "Send a short thank-you message to someone."
+    },
+    {
+      "day": 4,
+      "theme": "Sabr — Patience",
+      "ayah": { "ref": "Qur'an 2:153", "text": "Seek help through patience and prayer. Indeed, Allah is with the patient." },
+      "dua": { "arabic_translit": "Rabbana afrigh 'alayna sabran wa thabbit aqdamana", "translation": "Our Lord, pour upon us patience and plant firmly our feet.", "source": "Qur'an 2:250" },
+      "dhikr": { "phrase": "Inna lillahi wa inna ilayhi raji'un", "count": null, "note": "said when facing difficulty, not a fixed-count dhikr" },
+      "reflection": "What's something hard right now that patience could soften?",
+      "good_deed": "Be patient with someone who's testing your patience today — on purpose."
+    },
+    {
+      "day": 5,
+      "theme": "Istighfar — Seeking forgiveness",
+      "ayah": { "ref": "Qur'an 39:53", "text": "O My servants who have transgressed against themselves, do not despair of the mercy of Allah." },
+      "dua": { "arabic_translit": "Rabbighfir li", "translation": "My Lord, forgive me.", "source": "Sunan Ibn Majah" },
+      "dhikr": { "phrase": "Astaghfirullah", "count": 100 },
+      "reflection": "Is there something you've been carrying guilt over that sincere repentance could release?",
+      "good_deed": "Apologize to someone you may have wronged."
+    },
+    {
+      "day": 6,
+      "theme": "Ease after hardship",
+      "ayah": { "ref": "Qur'an 94:5-6", "text": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease." },
+      "dua": { "arabic_translit": "Allahumma la sahla illa ma ja'altahu sahla, wa anta taj'alul hazna idha shi'ta sahla", "translation": "O Allah, nothing is easy except what You make easy, and You make the difficult easy if You wish.", "source": "Sahih Ibn Hibban" },
+      "dhikr": { "phrase": "La hawla wa la quwwata illa billah", "count": 10 },
+      "reflection": "What feels hard right now that you can trust will ease with time?",
+      "good_deed": "Make something easier for someone else today — offer help before they ask."
+    },
+    {
+      "day": 7,
+      "theme": "Kindness to parents",
+      "ayah": { "ref": "Qur'an 17:23-24", "text": "And to parents, good treatment... 'My Lord, have mercy upon them as they brought me up [when I was] small.'" },
+      "dua": { "arabic_translit": "Rabbi irhamhuma kama rabbayani sagheera", "translation": "My Lord, have mercy upon them as they raised me when I was small.", "source": "Qur'an 17:24" },
+      "dhikr": null,
+      "reflection": "When did a parent or elder in your life sacrifice for you without asking for anything back?",
+      "good_deed": "Call or message a parent/elder today, even briefly."
+    },
+    {
+      "day": 8,
+      "theme": "Anxiety and worry",
+      "ayah": { "ref": "Qur'an 13:28", "text": "Verily, in the remembrance of Allah do hearts find rest." },
+      "dua": { "arabic_translit": "Allahumma inni a'udhu bika minal-hammi wal-hazan, wal-'ajzi wal-kasal, wal-bukhli wal-jubn, wa dala'id-dayni wa ghalabatir-rijal", "translation": "O Allah, I seek refuge in You from anxiety and grief, from helplessness and laziness, from cowardice and miserliness, from being overcome by debt and overpowered by others.", "source": "Sahih al-Bukhari" },
+      "dhikr": null,
+      "reflection": "Name the anxious thought sitting with you right now, then read this dua slowly.",
+      "good_deed": "Check in on someone you know is anxious or stressed."
+    },
+    {
+      "day": 9,
+      "theme": "Ikhlas — Sincerity",
+      "ayah": { "ref": "Qur'an 18:110", "text": "Whoever hopes for the meeting with his Lord — let him do righteous work and not associate anyone in the worship of his Lord." },
+      "dua": { "arabic_translit": "Allahumma inni a'udhu bika an ushrika bika wa ana a'lam", "translation": "O Allah, I seek refuge in You from associating anything with You knowingly.", "source": "Musnad Ahmad" },
+      "dhikr": null,
+      "reflection": "Do one small good deed today and tell no one about it.",
+      "good_deed": "(same as reflection — the act itself is the deed)"
+    },
+    {
+      "day": 10,
+      "theme": "Remembering death",
+      "ayah": { "ref": "Qur'an 3:185", "text": "Every soul will taste death." },
+      "dua": null,
+      "dhikr": null,
+      "reflection": "If today were your last day, what would you want to have already done?",
+      "good_deed": "Do the good deed you've been postponing."
+    },
+    {
+      "day": 11,
+      "theme": "Charity",
+      "ayah": { "ref": "Qur'an 2:261", "text": "The example of those who spend their wealth in the way of Allah is like a seed which grows seven spikes; in each spike is a hundred grains." },
+      "dua": null,
+      "dhikr": null,
+      "reflection": "What's one small act of charity you can give today — money, time, or a kind word?",
+      "good_deed": "Give something today, however small, without expecting anything back."
+    },
+    {
+      "day": 12,
+      "theme": "Good character",
+      "ayah": null,
+      "dua": null,
+      "hadith": { "text": "The best of you are those with the best character.", "source": "Sahih al-Bukhari" },
+      "dhikr": null,
+      "reflection": "Where did your character show up well this week? Where could it improve?",
+      "good_deed": "Choose the kinder response the next time you're tested today."
+    },
+    {
+      "day": 13,
+      "theme": "Hope in Allah's mercy",
+      "ayah": { "ref": "Qur'an 15:56", "text": "And who despairs of the mercy of his Lord except for those astray?" },
+      "dua": null,
+      "dhikr": null,
+      "reflection": "What would change if you truly believed Allah's mercy is bigger than your mistakes?",
+      "good_deed": "Extend the same mercy to someone else that you hope for yourself."
+    },
+    {
+      "day": 14,
+      "theme": "Consistency",
+      "ayah": null,
+      "hadith": { "text": "The most beloved deeds to Allah are those done consistently, even if small.", "source": "Sahih al-Bukhari & Sahih Muslim" },
+      "dua": null,
+      "dhikr": null,
+      "reflection": "Looking back at these 14 days — what's one small habit you want to keep going?",
+      "good_deed": "Pick your one habit and commit to it for another 7 days."
+    }
+  ]
+}
